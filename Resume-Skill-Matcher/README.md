@@ -139,8 +139,14 @@ python main.py
 
 
 💡 Example
+
+
 Input:
+
+
 python machine learning
 Output:
+
+
 Suggested Role: Data Scientist
 
