@@ -1,5 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+# sample dataset inspired by endee
 
 jobs = {
     "Data Scientist": "python machine learning data analysis",
