@@ -23,6 +23,9 @@ The objective of this project is to:
 
 
 🏗️ System Design
+
+
+
 ⚙️ Components
 
 
@@ -60,6 +63,8 @@ The objective of this project is to:
 
 
 🤖 Use of Model
+
+
 This project uses a simple machine learning approach:
 
 
@@ -69,6 +74,9 @@ This project uses a simple machine learning approach:
 2.📐 Cosine Similarity for matching
 
 📌 Vector Database Justification
+
+
+
 Vector representation helps in:
 
 
@@ -99,8 +107,12 @@ Vector representation helps in:
 
 
 📊 Dataset
+
+
 This project uses a sample dataset inspired by the Endee repository.
 The dataset contains job roles and their associated skills.
+
+
 📝 Example:
 
 
